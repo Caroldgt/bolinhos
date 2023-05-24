@@ -1,63 +1,62 @@
-@import url('https://fonts.googleapis.com/css2?family= Oleo +Script & display=swap');
+@import url("https://fonts.googleapis.com/css2?family= Oleo +Script & display=swap");
 
-:root{
-
-    --font-principal:("Oleo +Script");
-
-
-
+:root {
+  --font-principal: ("Oleo +Script");
 }
 
-*{
-    padding: 0px;
-    margin: 0px;
+* {
+  padding: 0px;
+  margin: 0px;
 }
 
 body {
-    background: url(./Untitled.svg) no-repeat center fixed;
-    background-size: cover;
-  }
-
-
-  .titulo{
-
-    font-family: var(--font-principal);
-    
-  }
-
-  h4 {
-    padding-left: 20vh;
-    padding-top: 40vh;
-    font-size: 60px;
-    color: #D4596D;
-    align-items: center;
-    font-family: 'Cookie', cursive;
-    font-weight: 700;
+  background: url(./image/Untitled.svg) no-repeat center fixed;
+  background-size: cover;
 }
 
-p{
-    font-size: 20px;
-    margin: 20px;
-    margin-left: 20vh;
-    color: white;
+.titulo {
+  font-family: var(--font-principal);
 }
 
+h4 {
+  padding-left: 20vh;
+  padding-top: 40vh;
+  font-size: 60px;
+  color: #d4596d;
+  align-items: center;
+  font-family: "Cookie", cursive;
+  font-weight: 700;
+}
+
+p {
+  font-size: 20px;
+  margin: 20px;
+  margin-left: 20vh;
+  color: white;
+}
 
 button {
-    margin-bottom: 20px;
-    margin:20px;
-    font-size: 30px;
-    margin-left: 20vh;
-    padding:20px 20px 20px;
-    border-radius: 50px;
-    border-style: none;
-    background-color: #D85A6F;
-    font-family: var(--font-principal);
-    font-weight: 800;
-    color: white;
+  margin-bottom: 20px;
+  margin: 20px;
+  font-size: 30px;
+  margin-left: 20vh;
+  padding: 20px 20px 20px;
+  border-radius: 50px;
+  border-style: none;
+  background-color: #d85a6f;
+  font-family: var(--font-principal);
+  font-weight: 800;
+  color: white;
 }
 
-
-.sociais{
-    display: flex;
+.sociais {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20vh;
 }
+
+.rede1{
+  margin-top: 10px;
+  padding: 10px;
+}
+

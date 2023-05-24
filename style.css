@@ -36,16 +36,17 @@ body {
 }
 
 p{
-    font-size: 40px;
+    font-size: 20px;
     margin: 20px;
-    margin-left: 22vh;
+    margin-left: 20vh;
+    color: white;
 }
 
 
 button {
     margin-bottom: 20px;
     margin:20px;
-    font-size: 36px;
+    font-size: 30px;
     margin-left: 20vh;
     padding:20px 20px 20px;
     border-radius: 50px;

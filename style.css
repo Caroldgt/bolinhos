@@ -81,3 +81,20 @@ button {
   max-width: 39px;
   
 }
+
+
+footer{
+  margin-top: 27vh;
+  background-color:#fc2146 ;
+  font-size: 30px;
+  align-items: center;
+  text-align: center;
+}
+
+.nomes{
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}

@@ -4,3 +4,7 @@ button:hover{
     transition-duration: 0.20s;
 }
 
+.rede1:hover{
+    max-width: 30px;
+    transition-duration: 0.20s;
+}

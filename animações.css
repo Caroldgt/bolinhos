@@ -1,7 +1,7 @@
 button:hover{
     background-color: #fc2146;
     transform: scale(.2);
-    transition-duration: 0.20s;
+    transition-duration: 0.50s;
 }
 
 .rede1:hover{

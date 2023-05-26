@@ -1,6 +1,6 @@
 button:hover{
     background-color: #fc2146;
-    transform: scale(.2);
+    transform: scale(.20);
     transition-duration: 0.50s;
 }
 
